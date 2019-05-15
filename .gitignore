@@ -1,0 +1,21 @@
+# OSX garbage
+.DS_Store
+
+# Maven
+target/
+
+# Eclipse
+.settings/
+.classpath
+.factorypath
+.project
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# vscode
+.vscode
+
+# Branch switching
+generated/
